@@ -1,7 +1,7 @@
 # quarto-game
 
-**Authors**
-Yann Trividic
+**Authors**   
+Yann Trividic   
 Elie Duboux  
 
 **Description**  
